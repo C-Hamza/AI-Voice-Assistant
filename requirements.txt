@@ -1,0 +1,19 @@
+# Core dependencies
+pvporcupine==3.0.2
+sounddevice==0.4.6
+soundfile==0.12.1
+openai-whisper==20231117  # Or use: whisper @ git+https://github.com/openai/whisper.git
+psutil==5.9.5
+comtypes==1.2.0
+pycaw==20230413
+win10toast==0.9
+python-dotenv==1.0.0
+elevenlabs==1.0.5
+keyboard==0.13.5
+
+# PyTorch (CPU version - replace with CUDA version if needed)
+torch==2.1.0
+torchaudio==2.1.0
+
+# Windows-specific
+pyaudio==0.2.14  # Required for microphone access
