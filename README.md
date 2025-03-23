@@ -17,7 +17,7 @@ A Python-based voice-controlled assistant with wake word detection, speech recog
 
 ## 🚀 Quick Start  
 1. Clone the repo:  
-   `git clone https://github.com/yourusername/AI-Voice-Assistant.git`  
+   `git clone https://github.com/C-Hamza/AI-Voice-Assistant.git`  
 2. Install dependencies:  
    `pip install -r requirements.txt`  
 3. Add API keys to `.env` file  
